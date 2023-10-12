@@ -1,0 +1,6 @@
+{
+    "AZURE_OPENAI_API_VERSION": "api-version=2022-12-01",
+    "AZURE_OPENAI_ENDPOINT": "",
+    "AZURE_OPENAI_KEY": "",
+    "AZURE_OPENAI_DEPLOYMENT_MODEL": "text-davinci-003"
+}
